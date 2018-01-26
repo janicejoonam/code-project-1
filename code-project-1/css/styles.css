@@ -1,0 +1,40 @@
+body {
+  font-family: sans-serif;
+  padding-top: 55px;
+  padding-bottom: 55px;
+}
+
+h1 {
+  font-size: 200pt;
+  font-family: impact;
+  text-align: center;
+  word-spacing: 20px;
+}
+
+.sidebar{
+  width: 30%;
+  float: right;
+  background-color: white;
+}
+
+.panel-title {
+  border: 20px;
+  margin-top: 30px;
+  text-align: center;
+}
+
+.project {
+  font-family: gruppo;
+  font-size: 50pt;
+  text-align: left;
+  padding-top: 35px;
+  padding-left: 50px;
+  padding-bottom: 35px;
+}
+
+@media screen and (max-width: 820px) and (min-width: 300px){
+  body {
+    background-color: black;
+    color: gray;
+  }
+}
