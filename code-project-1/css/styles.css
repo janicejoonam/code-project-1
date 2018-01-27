@@ -21,6 +21,16 @@ h1 {
   padding-bottom: 55px;
 }
 
+.menu {
+  float: left;
+}
+
+.connect{
+  text-align: left;
+  margin: auto;
+  font-weight: bold;
+}
+
 .corgi{
   max-width: 200px;
   max-height: 400px;
@@ -28,7 +38,7 @@ h1 {
 
 .panel-title {
   border: 20px;
-  margin-top: 30px;
+  margin: 15px;
   text-align: center;
 }
 
