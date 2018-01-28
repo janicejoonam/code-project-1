@@ -1,4 +1,4 @@
-@media screen and (max-width: 820px) and (min-width: 300px){
+@media screen and (max-width: 1000px) and (min-width: 300px){
   body {
     background-color: black;
     color: grey;
@@ -6,11 +6,37 @@
   }
 }
 
+#container {
+    margin:0px auto 0px auto;
+    width: 850px;
+}
+
 body {
   font-family: sans-serif;
   font-size: 18px;
-  padding-top: 55px;
-  padding-bottom: 55px;
+  margin: 0;
+}
+
+.img1 {
+  width:683px;
+  height:400px;
+}
+
+.img2 {
+  width:683px;
+  height:400px;
+}
+
+.img3{
+  width:683px;
+  height:400px;
+  padding-bottom: 13px;
+}
+
+.img4 {
+  width:683px;
+  height:400px;
+  padding-bottom: 13px;
 }
 
 h1 {
@@ -36,9 +62,13 @@ h1 {
 }
 
 .connect{
-  text-align: left;
-  margin: auto;
+  text-align: center;
   font-weight: bold;
+  font-size: 35pt;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
 }
 
 .corgi{
