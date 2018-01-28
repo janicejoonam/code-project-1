@@ -49,12 +49,13 @@ h1 {
 }
 
 .about_me {
-  font-size: 60pt;
+  font-size: 80pt;
   font-color:
 }
 
 .interests {
   padding-top: 55px;
+  font-size: 80pt;
 }
 
 .menu {
@@ -74,9 +75,26 @@ h1 {
 .corgi{
   max-width: 200px;
   max-height: 400px;
+  margin-right: 60px;
+  margin-left: 10px;
+  margin-top: 20px;
+  float: left;
+  border-radius: 20%;
 }
 
+.snowboard{
+  max-width: 300px;
+  max-height: 600px;
+  border-radius: 50%;
+  float: right;
+  margin-top: 40px;
+}
 
+.video{
+  float: left;
+  border-radius: 100%;
+  align: center;
+}
 
 .project {
   font-family: gruppo;
