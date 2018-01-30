@@ -5,10 +5,12 @@ My first Portfolio, 01.27.2018
 This is Janice's first Portfolio Landing Page!
 
 <h2>Setup/Installation Requirements</h2>
-*Open web browser
-*Open web page
-This is a simple webpage. You shouldn't have any issues with this.
-Link to site on GitHub pages: https://github.com/janicejoonam/code-project-1
+*Open Terminal
+*In Terminal, enter the following:
+git clone https://github.com/janicejoonam/code-project-1
+cd code-project-1
+*Then, open the code-project-1 folder on your Desktop and open the index.html file
+*This will open the webpage on your web browser
 
 <h2>Known Bugs</h2>
 *Unable to add window autosize but will update project once this concept is learned in class (webpage suited for MacBook Air 11", larger screens will have webpage content formatting issues)
